@@ -8,7 +8,7 @@ The project was developed as part of a final-year university PACE unit focused o
 
 ## Project Objective
 
-Modern data linkage systems - used in sectors like healthcare — often rely on neural network models to match unstructured text records. While powerful, these models are vulnerable to inference attacks that can compromise data privacy even when datasets are hidden.
+Modern data linkage systems - used in sectors like healthcare - often rely on neural network models to match unstructured text records. While powerful, these models are vulnerable to inference attacks that can compromise data privacy even when datasets are hidden.
 
 This repository demonstrates:
 - How an attacker can train a **shadow model** to mimic the target linkage system
